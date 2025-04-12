@@ -3,6 +3,7 @@
 This project is an AI-based Crowd Detection System using YOLOv8 for object detection and DeepSORT for object tracking. The system can process images, provide a live camera feed, and count people in real-time.
 ![Crowd Detection Demo](outputs/Outputimage.jpg)
 
+
 # 🚀 Features
 
 📷 Upload an image to detect and count people.
